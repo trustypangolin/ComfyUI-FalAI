@@ -1,0 +1,6 @@
+{
+  "models": [
+    "fal-ai/seedvr/upscale/image",
+    "fal-ai/flux-2/klein/9b/edit"
+  ]
+}
